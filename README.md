@@ -1,7 +1,6 @@
 ## Project Topic: Using Neural Networks to recreate lost parts of images
-### Team Name: Sleepy Heads
 
-<img display="inline" width ="100%" src="https://github.com/art-hack/LNMHacks-3.0-Submission/blob/master/display.png"> 
+<img display="inline" width ="100%" src="https://github.com/art-hack/Image-Prediction-using-Deep-Convolutional-Networks/blob/master/display.png"> 
 
 ### Explaination:
 
@@ -38,7 +37,7 @@ cd image-completion
 mkdir input
 mkdir output
 ```
-### **Note: The image should be redacted (erased) with HEx values: #010203 and NOT any other color and should use Paint 3d in Windows and gnome-paint drawing editor in Linux**
+### **Note: The image should be redacted (erased) with HEX values: #010203 and NOT any other color and should use Paint 3d in Windows and gnome-paint drawing editor in Linux**
 Copy the redacted images into the input folder
 
 ```
